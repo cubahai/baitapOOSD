@@ -1,0 +1,11 @@
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\controller\SinhVienController.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\Demo2Application.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\dto\SinhVienForm.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\entity\Nganh.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\entity\Table_SV.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\entity\TotNghiep.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\entity\Truong.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\repository\NganhRepository.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\repository\SinhVienRepository.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\repository\TotNghiepRepository.java
+D:\DemogamebyNguyenTanHai\Demo2\src\main\java\com\example\demo2\repository\TruongRepository.java

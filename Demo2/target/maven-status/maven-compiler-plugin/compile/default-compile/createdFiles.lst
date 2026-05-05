@@ -1,0 +1,11 @@
+com\example\demo2\entity\Table_SV.class
+com\example\demo2\controller\SinhVienController.class
+com\example\demo2\dto\SinhVienForm.class
+com\example\demo2\repository\SinhVienRepository.class
+com\example\demo2\repository\NganhRepository.class
+com\example\demo2\repository\TruongRepository.class
+com\example\demo2\entity\TotNghiep.class
+com\example\demo2\entity\Nganh.class
+com\example\demo2\repository\TotNghiepRepository.class
+com\example\demo2\entity\Truong.class
+com\example\demo2\Demo2Application.class
